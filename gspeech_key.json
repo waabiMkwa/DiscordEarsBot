@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "swift-anvil-343921",
+  "private_key_id": "1672986930dcad0273559527b9cf8413cb17c02e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbPbJzhGzRleyU\nczSeo63mJpvez+b327msGE+3B1SLjA8VuQClVUoqEPJeEnoIb1hbc/ClOozUWAgr\n2i6gRbM2gJ1sBe5c8WHJYDS1EnFnCWqdJEQwTxVysJcs21ybnc2uIv9Q8979JSYT\n1JUyH7+cZ3qXV565fLvd3QH360vjz4cVb/bzqoOlJS1qj5bVaJT5uRw6bT7HFLkd\nDb93Gh/du9GTiTpCozxOQf/w7ioop/+lIaB7EOAB7Xx46YUtaoaq3K1UagSH2Dux\nuXG/mpclLaT73lym0qyySon5vAb8r60RsCNgI4DLfgb8KivQjuCxhcE1CtXtvA5A\n8DREE+z3AgMBAAECggEABsARDlki8pcKTY3N2R6SsaCPBwlhWVCkwwWNRXDj1ldt\nys5DP1PvcHkiGpRjY9QYeoReLJraEDBVBr31K+PJf0xEIeR9hii7yTP9m3T3FI7n\n1JvJFQWyVDGCDhRY9xpLkBOCx0Qi9v9dpe792FO9lhFiPGZVvEH4v32DsdWcT2Yb\nPKyJjCim+8TVuCYqDLvp5JJKG+f/fLBhkHkcJSp9iAkOKLSOOvb6gJtPQCVgenwL\nuXzVvwo/8sVxCKzbA9MCUCy6dqeDuqkw7wENhd9BsLkcb5xc4qZN5fHjq9Cut6X+\nNDKT0fFf22a4Zn7a4vykuzIUUGRyv3sewmzOGTFG7QKBgQD/mCKT7xG5CGUf2bKo\nV8XTTLjX/GMzZ2IpqQzSkcLu5vnRq1mSximMixeqRk1is8lje0iVoQXcoE2x926X\n4yaHg8Tv5OUp16CBEawqXW62/lnB728Q+wRFLHEUcvbWfOhCHMFTV310jj+fkn2o\nVyt/98bSxlH9Vdtk6hwcBRrIswKBgQDblsoMrhbcG+q5hHHUQ1K1GLXrc6Cxhuqq\n6uZaPix+/COEEjdGR/JCIw9Jk8vw5ZF36sPubYdIWl1F6cJZ3fATo8yojzfBBHf5\n3ZsoLuxZRYiybgBOm9FhNhNxzNdu6zs0S2Eef+FtN3C2IOyui4bPWrlZEbx8ftvf\nl0pwa4qErQKBgEP8G3Zt6LDm4r8OEM9mSWBiz+fjYh+SKDIcnSSFUOxq05hJk5HO\n085mUO0htgPC/pZPfIcQRZbhrMjhn7EW4nC5Q/DrWWk/yZmLMdgy8fgKv6UuIsTJ\nf+FGaO2fhriWkNDFBUc9xkjybUnslS/pv9BR/7igt75C0BCPlNp/IRixAoGBALm3\nuoMm6eaXJdppjew8VEMd9x5/2LTMqsSLju9cDj4H+fHFhkJGrzoIdPGBssa3ImUN\nhVCuCfDDnId4wQtIjbfOnVUia8EvilkleAhwRyzphkeCiXfyiQ9ysNdarAn/oT8F\nUcp91aaNcSJYjlTBZO8SiBgwy/1vPX7JcgfKrIixAoGASFfgbMm+zi4YUdibgtcK\neUSRvZ8HSblDmF+M5FdmrEJNTyDhDvU4rc4BJ/A7OzrPlwDrq5rVCIJYpH4nQOUE\nrZEo+wTlVeuLtbo5lPBh2Bd9gn8xet50l6vj4vIJ47rgfAgxeXzdCYC5/AUEMomu\ncEYN37hb5adZQcpF0X+yow0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jowil-147@swift-anvil-343921.iam.gserviceaccount.com",
+  "client_id": "105559577975711623269",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jowil-147%40swift-anvil-343921.iam.gserviceaccount.com"
+}
